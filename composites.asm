@@ -1,5 +1,4 @@
-;Author: Xavier Hollingsworth
-;Course: CS271						Date: 10/26/17
+;Author: Xavier Hollingsworth					Date: 10/26/17
 ;Description: This program calculates composite numbers
 
 INCLUDE C:\Irvine\Irvine32.inc
