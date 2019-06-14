@@ -1,5 +1,5 @@
 ;//Author: Xavier Hollingsworth
-;//Course: CS271							Date: 9/03/2017
+							Date: 9/03/2017
 ;//Description: This program takes 2 integers input from the user and calculates the sum, difference, product, quotient, and remainder.
 
 INCLUDE C:\Irvine\Irvine32.inc
