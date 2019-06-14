@@ -1,5 +1,4 @@
-;Author: Xavier Hollingsworth
-;Course: CS271					Date:11/31/2017
+;Author: Xavier Hollingsworth				Date:11/31/2017
 ;Description: This program fills an array with 10 user entered integers and
 ;then displays the integers, their sum, and their average.
 
