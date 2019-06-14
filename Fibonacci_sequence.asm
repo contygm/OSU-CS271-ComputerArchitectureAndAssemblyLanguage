@@ -1,5 +1,4 @@
-;//Author: Xavier Hollingsworth
-;//Course: CS271							Date: 10/13/2017
+;//Author: Xavier Hollingsworth							Date: 10/13/2017
 ;//Description: This program calculates and displays all of the numbers in a Fibonacci sequence with an integer entered by a user within a certain range.
 
 INCLUDE C:\Irvine\Irvine32.inc
