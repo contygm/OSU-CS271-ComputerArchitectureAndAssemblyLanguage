@@ -1,5 +1,4 @@
-;//Author: Xavier Hollingsworth
-;//Course: CS271							Date: 10/17/2017
+;//Author: Xavier Hollingsworth							Date: 10/17/2017
 ;//Description: This program counts and displays the sum and average of valid user entered numbers (negative numbers only).
 
 INCLUDE C:\Irvine\Irvine32.inc
